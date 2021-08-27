@@ -1,0 +1,16 @@
+.avatar_logo{
+    width:2rem;
+    height: 2rem;
+    border-radius: 50%;
+}
+.avatar_border{
+    margin-right: 10px;
+    padding: 1.5px;
+    background-color: white;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 50%;
+    border:1px solid black;
+    align-items: center;
+    object-fit: contain;
+}
